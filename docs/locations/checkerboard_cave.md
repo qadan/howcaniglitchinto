@@ -1,0 +1,15 @@
+# Checkerboard Cave
+
+### You have:
+
+- The boots
+
+### You want to:
+
+Clip into the corner directly to the north of the door to Cave 45, standing on the grass just next to the path.
+
+This will be a [Downward Teleport](../tech/downward_teleport) on the lower of the two available spots.
+
+After the teleport, move to the next screen to the left.
+
+Here, you will be on the ledge above checkerboard cave. Jump down to access the entrance.

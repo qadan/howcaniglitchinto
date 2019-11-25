@@ -1,0 +1,50 @@
+site_name: How Can I Glitch Into
+site_description: Documentation for glitching into locations in A Link to the Past
+site_author: fantallis
+
+docs_dir: docs
+dev_addr: 'localhost:8111'
+repo_url: https://github.com/qadan/howcaniglitchinto
+
+theme:
+  name: mkdocs
+
+nav:
+  - Main: 'index.md'
+  - Locations:
+    - Bombos Tablet: 'locations/bombos_tablet.md'
+    - Bumper Cave Ledge: 'locations/bumper_cave_ledge.md'
+    - Checkerboard Cave: 'locations/checkerboard_cave.md'
+    - Desert Ledge: 'locations/desert_ledge.md'
+    - Desert Palace (Left): 'locations/desert_palace_left.md'
+    - Desert Palace (Rear): 'locations/desert_palace_rear.md'
+    - Floating Island: 'locations/floating_island.md'
+    - Ganon's Tower: 'locations/ganons_tower.md'
+    - Graveyard Ledge: 'locations/graveyard_ledge.md'
+    - Ice Palace: 'locations/ice_palace.md'
+    - King's Tomb: 'locations/kings_tomb.md'
+    - Lake Hylia Island: 'locations/lake_hylia_island.md'
+    - Magic Bat: 'locations/magic_bat.md'
+    - Pyramid Fairy: 'locations/pyramid_fairy.md'
+    - South of Grove (Cave 45): 'locations/south_of_grove.md'
+    - Spectacle Rock: 'locations/spectacle_rock.md'
+    - Turtle Rock (Entrance): 'locations/turtle_rock_entrance.md'
+    - Turtle Rock (Laser Bridge): 'locations/turtle_rock_laser_bridge.md'
+    - Zora Ledge: 'locations/zora_ledge.md'
+  - Regions:
+    - Dark Blacksmiths: 'regions/dark_blacksmiths.md'
+    - Dark East Death Mountain - Lower: 'regions/dark_east_dm_lower.md'
+    - Dark East Death Mountain - Upper: 'regions/dark_east_dm_upper.md'
+    - Dark West Death Mountain - Lower: 'regions/dark_west_dm_lower.md'
+    - Dark West Death Mountain - Upper: 'regions/dark_west_dm_upper.md'
+    - Light East Death Mountain - Lower: 'regions/light_east_dm_lower.md'
+    - Light East Death Mountain - Upper: 'regions/light_east_dm_upper.md'
+    - Light West Death Mountain - Lower: 'regions/light_west_dm_lower.md'
+    - Light West Death Mountain - Upper: 'regions/light_west_dm_upper.md'
+    - Mire Area: 'regions/mire_area.md'
+    - North/West Dark World: 'regions/nw_dark_world.md'
+    - South/East Dark World: 'regions/se_dark_world.md'
+    - Turtle Rock Ledge: 'regions/turtle_rock_ledge.md'
+  - Tech:
+    - Downwards Teleport: 'tech/downwards_teleport.md'
+    - Upwards Teleport: 'tech/upwards_teleport.md'
