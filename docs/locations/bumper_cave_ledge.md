@@ -7,6 +7,4 @@
 
 ### You want to:
 
-Clip into the corner up and to the left of Bumper Cave Ledge.
-
-This will be a [Downwards Teleport](../tech/downwards_teleport.md) on the third bump from the bottom of the corner.
+1. Clip into the corner up and to the left of Bumper Cave Ledge. This will be a [Downwards Teleport](../tech/downwards_teleport.md) on the third bump from the bottom of the corner.

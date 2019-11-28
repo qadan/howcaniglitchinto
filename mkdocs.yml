@@ -30,12 +30,12 @@ nav:
     - Spectacle Rock: 'locations/spectacle_rock.md'
     - Turtle Rock (Entrance): 'locations/turtle_rock_entrance.md'
     - Turtle Rock (Laser Bridge): 'locations/turtle_rock_laser_bridge.md'
+    - Turtle Rock (Ledge): 'locations/turtle_rock_ledge.md'
     - Zora Ledge: 'locations/zora_ledge.md'
   - Regions:
     - Dark Blacksmiths: 'regions/dark_blacksmiths.md'
     - Dark East Death Mountain - Lower: 'regions/dark_east_dm_lower.md'
     - Dark East Death Mountain - Upper: 'regions/dark_east_dm_upper.md'
-    - Dark West Death Mountain - Lower: 'regions/dark_west_dm_lower.md'
     - Dark West Death Mountain - Upper: 'regions/dark_west_dm_upper.md'
     - Light East Death Mountain - Lower: 'regions/light_east_dm_lower.md'
     - Light East Death Mountain - Upper: 'regions/light_east_dm_upper.md'
